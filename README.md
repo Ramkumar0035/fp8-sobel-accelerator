@@ -16,7 +16,6 @@ This work is part of an ongoing research project and is currently under review. 
 ## Results
 - SSIM: 0.82
 - PSNR: 37 dB
-- Frequency: 100 MHz
 
 ## Note
 Some implementation details are intentionally abstracted due to research publication policies.
